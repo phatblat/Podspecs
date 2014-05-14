@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author       = 'See AUTHORS file'
   s.source       = { :git => "https://github.com/libgit2/libgit2.git", :commit => "2ff4469afc1e3e142d68c46e3c15e889fe32582a" }
   s.source_files = 'deps/http-parser/*.{h,c}', 'src/**/*.{h,c}', 'include/**/*.h'
-  s.exclude_files = '**/include/git2/inttypes.h', '**/include/git2/stdint.h', '**/src/win32/**', '**/hash_win32.*'
+  s.exclude_files = '**/include/git2/inttypes.h', '**/include/git2/stdint.h', '**/src/win32/**', '**/hash_win32.*', '**/src/amiga/**'
   s.public_header_files = 'include/**/*.h'
   s.preserve_paths = 'Authors'
   s.libraries = 'z'
