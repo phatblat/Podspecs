@@ -14,3 +14,8 @@ $ git repo add forks https://github.com/phatblat/Podspecs.git
 
 It will land in your ~/.cocoapods/repos dir.
 
+
+## Testing
+
+Use the `pod search` command for simply testing where and how a spec is published.
+
