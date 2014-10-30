@@ -2,6 +2,7 @@ Pod::Spec.new do |s|
 	s.name		= 'OctoKit'
 	s.version	= '0.5'
 	s.summary	= 'GitHub API client for Objective-C.'
+	s.description   = 'This is a modified podspec for the publically available 0.5. It bumps up the ReactiveCocoa version requirement to ~> 2.3 instead of ~> 2.2.2.'
 	s.homepage	= 'https://github.com/octokit/octokit.objc'
 	s.license	= 'MIT'
 	s.authors	= 'GitHub'
