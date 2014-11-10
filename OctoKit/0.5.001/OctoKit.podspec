@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
 	s.license	= 'MIT'
 	s.authors	= 'GitHub'
 
-	s.source 	= { :git => 'https://github.com/octokit/octokit.objc.git', :tag => s.version.to_s }
+	s.source 	= { :git => 'https://github.com/octokit/octokit.objc.git', :tag => '0.5' }
 	s.source_files = 'OctoKit'
 
 	s.requires_arc = true
