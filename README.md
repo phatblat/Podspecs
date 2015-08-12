@@ -19,3 +19,7 @@ It will land in your ~/.cocoapods/repos dir.
 
 Use the `pod search` command for simply testing where and how a spec is published.
 
+
+## License
+
+This repo is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for rights and limitations.
